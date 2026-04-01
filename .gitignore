@@ -1,0 +1,16 @@
+
+venv/
+__pycache__/
+*.pyc
+CityScapes/
+data/
+*.pth
+*.pt
+*.log
+__pycache__/
+*.pyc
+CityScapes/
+data/
+*.pth
+*.pt
+*.log
